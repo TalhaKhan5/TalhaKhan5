@@ -9,7 +9,7 @@ I am a passionate Data Scientist from Lahore, Pakistan.
 💻 Game Software Developer at FRAG — Summers of 2018  <br>
 
 - 💬 Ask me about Software Engineering, Unit testing with PyTest, Data Science, PySpark and, Deep and Machine Learning Pipelines
-- 🔭 I’m currently working on Fraud Detection in Fintech and also Python Automation and Web Scrapping
+- 🔭 I’m currently leading a team on Fraud Detection in Fintech and also Python Automation and Web Scrapping
 
 - 📫 How to reach me: https://www.linkedin.com/in/talhakhan96/
 
