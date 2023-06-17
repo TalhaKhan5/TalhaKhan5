@@ -11,7 +11,7 @@ I am a passionate Data Scientist from Lahore, Pakistan.
 - 💬 Ask me about Software Engineering, Unit testing with PyTest, Explainable AI, Data Science, Deep and Machine Learning Pipelines
 - 🔭 I’m currently leading a team on Fraud Detection in Fintech and also Python Automation and Web Scrapping
 
-- 📫 How to reach me: https://www.linkedin.com/in/talhakhan96/
+- 📫 How to reach me: https://www.linkedin.com/in/talhaAI/
 
 <!--
 **TalhaKhan5/TalhaKhan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
